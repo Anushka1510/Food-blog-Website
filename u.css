@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #f8b400;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+main {
+    padding: 20px;
+}
+
+main h2 {
+    color: #333;
+}
+p {
+    text-align: justify;
+    /* You can also set other properties like font size, line height, etc. */
+    font-size: 16px;
+    line-height: 1.5;
+    /* Add margin or padding if needed */
+    margin: 20px;
+}
